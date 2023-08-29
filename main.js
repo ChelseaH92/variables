@@ -34,7 +34,7 @@ let total = x + y;
 
 
 let firstName = "Chelsea";
-let lastName = "Hatton - Soon to Be Hamlin"
+let lastName = "Hatton"
 const age = "31";
 let likesTravel = true;
 
